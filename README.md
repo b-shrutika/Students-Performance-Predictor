@@ -27,12 +27,6 @@ Matplotlib (optional for visualization)
 
 Scikit-learn (Linear Regression model)
 
-📂 Project Structure
-│── data.csv                # Dataset containing student records
-│── predictor.ipynb         # Jupyter notebook with model implementation
-│── model.py                # Python script for training/evaluating the model
-│── README.md               # Project documentation
-
 🔧 How It Works
 
 Load and preprocess the dataset
